@@ -172,6 +172,9 @@ keywords = "بلاگ,برنامه نویس,مهندس کنترل"
 footerContent = "دانش قدرت است."
 rtl = true
 customCSS = ["css/custom.css"]
+hideFooter = false
+hideCredits = true
+hideCopyright = true
 
 [[languages.fa.menu.main]]
 name = "درباره‌ی من"
