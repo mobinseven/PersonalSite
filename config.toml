@@ -171,6 +171,7 @@ info = "برنامه‌نویس و مهندس کنترل"
 description = "پایگاه شخصی فرزاد مطلبی‌زاده"
 keywords = "بلاگ,برنامه نویس,مهندس کنترل"
 footerContent = "دانش قدرت است."
+rtl = true
 
 [[languages.fa.menu.main]]
 name = "درباره‌ی من"
