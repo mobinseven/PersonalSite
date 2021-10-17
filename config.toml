@@ -161,9 +161,9 @@ weight = 5
 url = "contact/"
 
 [languages.fa]
-languageName = ":پارسی:"
+languageName = "پارسی"
 title = "فرزاد مطلبی‌زاده"
-languagedirection = 'rtl'
+languageDirection = "rtl"
 
 [languages.fa.params]
 author = "فرزاد مطلبی‌زاده"
