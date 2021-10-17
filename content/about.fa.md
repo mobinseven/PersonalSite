@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Escrito em Go, Hugo é um gerador de sites estáticos de código aberto disponível sobre a licença [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) O Hugo suporta TOML, YAML e JSON como arquivos de dados, Markdown e HTML como arquivos de conteúdo, e usa shortcodes para adicionar conteúdos ricos. Outras funcionalidades notaveis são taxonomias, modo multilingual, processamento de imagens, formatos de saída customizaveis, minificação de HTML/CSS/JS e suporte a fluxos SASS/SCSS.
+من مهندس کنترل و برنامه‌نویس هستم.
 
 O Hugo faz o uso de vários projetos de código aberto incluíndo:
 

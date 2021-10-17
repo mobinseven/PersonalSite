@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "http://farzad.engineer"
+title = "Farzad M."
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,13 +12,13 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "John Doe"
-description = "John Doe's personal website"
+author = "Farzad M."
+description = "Farzad's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Full Stack DevOps", "Control Engineer"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
-footerContent = "Enter a text here."
+footerContent = "Knowledge is power."
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -37,7 +37,7 @@ colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
-maxSeeAlsoItems = 5
+maxSeeAlsoItems = 0
 # Enable Twemoji
 enableTwemoji = false
 # Custom CSS
@@ -103,39 +103,39 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/mobinseven/"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+#[[params.social]]
+#name = "Gitlab"
+#icon = "fa fa-gitlab"
+#weight = 2
+#url = "https://gitlab.com/johndoe/"
 
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "fa fa-twitter"
+#weight = 3
+#url = "https://twitter.com/johndoe/"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+#[[params.social]]
+#name = "LinkedIn"
+#icon = "fa fa-linkedin"
+#weight = 4
+#url = "https://www.linkedin.com/in/johndoe/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+#[[params.social]]
+#name = "Medium"
+#icon = "fa fa-medium"
+#weight = 5
+#url = "https://medium.com/@johndoe"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+#[[params.social]]
+#name = "RSS"
+#icon = "fa fa-rss"
+#weight = 6
+#url = "https://myhugosite.com/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 [languages.en]
 languageName = ":uk:"
@@ -160,33 +160,34 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
-[languages.pt-br]
-languageName = ":brazil:"
-title = "João Ninguém"
+[languages.fa]
+languageName = ":پارسی:"
+title = "فرزاد مطلبی‌زاده"
+languagedirection = 'rtl'
 
-[languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-footerContent = "Coloque algum texto aqui."
+[languages.fa.params]
+author = "فرزاد مطلبی‌زاده"
+info = "برنامه‌نویس و مهندس کنترل"
+description = "پایگاه شخصی فرزاد مطلبی‌زاده"
+keywords = "بلاگ,برنامه نویس,مهندس کنترل"
+footerContent = "دانش قدرت است."
 
-[[languages.pt-br.menu.main]]
-name = "Sobre"
+[[languages.fa.menu.main]]
+name = "درباره‌ی من"
 weight = 1
 url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Blog"
+[[languages.fa.menu.main]]
+name = "روزنویس"
 weight = 2
 url = "posts/"
 
-[[languages.pt-br.menu.main]]
-name = "Projetos"
+[[languages.fa.menu.main]]
+name = "پروژه‌ها"
 weight = 3
 url = "projects/"
 
-[[languages.pt-br.menu.main]]
-name = "Contato"
+[[languages.fa.menu.main]]
+name = "تماس با من"
 weight = 5
 url = "contact/"
