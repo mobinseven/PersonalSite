@@ -161,7 +161,7 @@ weight = 5
 url = "contact/"
 
 [languages.fa]
-languageName = "پارسی"
+languageName = "FA"
 title = "فرزاد مطلبی‌زاده"
 
 [languages.fa.params]
