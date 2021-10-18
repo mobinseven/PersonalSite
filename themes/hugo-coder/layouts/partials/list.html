@@ -13,7 +13,7 @@
   <ul>
     {{ range .Paginator.Pages }}
     <li>
-      <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+      <span class="date">{{.Date.Day}} {{i18n .Date.Month}} {{.Date.Year}}</span>
       <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
