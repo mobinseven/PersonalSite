@@ -61,3 +61,39 @@ other = "هشدار"
 
 [error]
 other = "خطا"
+
+[January]
+other = "ژانویه"
+
+[February]
+other = "فوریه"
+
+[March]
+other = "مارس"
+
+[April]
+other = "اپریل"
+
+[May]
+other = "می"
+
+[June]
+other = "ژوان"
+
+[July]
+other = "ژولای"
+
+[August]
+other = "آگست"
+
+[September]
+other = "سپتامبر"
+
+[October]
+other = "اکتبر"
+
+[November]
+other = "نوامبر"
+
+[December]
+other = "دسامبر"
