@@ -98,8 +98,17 @@
   }
 }
 
-.avatar {
+.header-avatar {
   text-align: center;
+}
+.header-avatar img {
+  width: 7rem;
+  height: auto;
+  border-radius: 50%;
+
+  @media only screen and (max-width: 768px) {
+    width: 5rem;
+  }
 }
 .avatar img {
   width: 20rem;
@@ -108,15 +117,6 @@
 
   @media only screen and (max-width: 768px) {
     width: 10rem;
-  }
-}
-.avatar-sm img {
-  width: 7rem;
-  height: auto;
-  border-radius: 50%;
-
-  @media only screen and (max-width: 768px) {
-    width: 5rem;
   }
 }
 
