@@ -21,7 +21,7 @@ avatarURL = "images/avatar.jpg"
 footerContent = "Knowledge is power."
 dateFormat = "January 2, 2006"
 hideFooter = false
-hideCredits = false
+hideCredits = true
 hideCopyright = false
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
